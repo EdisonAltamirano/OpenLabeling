@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>sugical_20.jpg</filename>
+  <path>C:\Users\riky_\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\Documents\OctavoSemestre\Research\SurgicalRobotics\OpenLabeling\main\input\sugical_20.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>987</width>
+    <height>821</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>needle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>572</xmin>
+      <ymin>186</ymin>
+      <xmax>699</xmax>
+      <ymax>307</ymax>
+    </bndbox>
+  </object>
+</annotation>

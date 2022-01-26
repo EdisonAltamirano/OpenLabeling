@@ -1,6 +1,3 @@
 *.pyc
 .idea/
 venv/
-main/input/people_walking_mp4
-main/output
-object_detection/models/*
